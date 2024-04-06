@@ -8,11 +8,11 @@
 </head>
 <style>
 /* Стилі пиши тут :) */
-
+h1 {color:red}
 </style>
 <body>
 
-<h1>fdgufhiod</h1>
+<h1>Світ пончеків</h1>
 <img src ="/uploads/2023/02/donut.png">
 </body>
 </html>
